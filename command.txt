@@ -7,3 +7,6 @@ git status
 git log --oneline pretty
 git clone
 git remote -v
+git remote set-url --add origin
+git push origin main
+
